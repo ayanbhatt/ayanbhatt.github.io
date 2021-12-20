@@ -1,9 +1,1 @@
-I have a *blog.*
-Hello and welcome. Edit the `index.md` file to change this content. 
-All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Often thoughts take a while to reach their final, world-ready shape. This is a blog with my thoughts as they form. The topics discussed are mostly related to mathematical and financial economics. 
